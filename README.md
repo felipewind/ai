@@ -30,7 +30,7 @@ Machine Learning Algorithm
 - Technique for achieving artificial intelligence
 
 Deep Learning
-- 
+- ...
 
 Machine Learning Model or simply Model
 - Result of training a machine learning algorithm on a particular dataset
@@ -39,4 +39,4 @@ Prompt
 - A prompt is the input we give to a machine learning model to generate output in the context of Chatgpt
 
 Token
-- 
+- ...
