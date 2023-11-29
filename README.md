@@ -16,3 +16,8 @@ Artificial Intelligence Study Project
 ## People
 
 Andrej Karpathy
+
+## Concepts
+
+LLM
+- Large Language Models
