@@ -13,3 +13,6 @@ Artificial Intelligence Study Project
 
 [Udemy - Introduction to OpenAI API & ChatGPT API for Developers](https://www.udemy.com/course/introduction-to-openai-api-chatgpt-api-chatgpt-plugins/)
 
+## People
+
+Andrej Karpathy
