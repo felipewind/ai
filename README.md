@@ -40,3 +40,20 @@ Prompt
 
 Token
 - ...
+
+GPT
+- Generative Pre-trained Transformer
+- AI *model* that is *pre-trained* and can understand text and *generate* new text.
+
+NLP
+- Natural Language Processing (NLP) Models
+- All models that work with text
+
+Completions
+- Generating new text that is similar to the text which was used for training
+- We provide a message on the "prompt" and receive one completion
+- Is a more general definition of tasks a model can perform
+- Categories of completions:
+  - Chat completions
+  - Text completions
+  - Code completions
