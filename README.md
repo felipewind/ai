@@ -19,7 +19,14 @@ Andrej Karpathy
 
 ## Links
 
+[OpenAI API Platform](https://platform.openai.com/)
+
 [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+
+[OpenAI Status](https://status.openai.com/)
+
+[Labs - DALL-E](https://labs.openai.com/)
+
 
 ## Concepts
 
@@ -57,3 +64,13 @@ Completions
   - Chat completions
   - Text completions
   - Code completions
+
+
+## Creativity of models
+
+In OpenAI APIs, the creativity can be defined using the `temperatura` parameter:
+- "0" means no creativity and more accurate responses. Probably you're going to receive repetitive answers, because the model is going to try to answer the best answer.
+- Higher numbers increase creativity, but increase the chance of returning wrong answers
+
+
+
