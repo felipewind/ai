@@ -14,6 +14,11 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
+For Windows run
+```
+source venv/Scripts/activate
+```
+
 ### `python3 -m venv venv`
 
 The command `python3 -m venv venv` is used to create a virtual environment in Python. Here's a breakdown of what each part of the command does:
